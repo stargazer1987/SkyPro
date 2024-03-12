@@ -3,6 +3,7 @@
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Nikolay!!");
+        System.out.println("My name is Nikolay!");
+        System.out.println("This is my first homework");
     }
 }
